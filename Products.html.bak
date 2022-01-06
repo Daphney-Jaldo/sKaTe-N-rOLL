@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Products</title>
+	<link rel="stylesheet" type="text/css" href="Products.css">
+</head>
+
+<body>
+<img class="logo" src="logo.jpeg" alt="logo" width="130px">
+	
+	<div class="dropdown">
+	<button class="btn">MENU</button>
+		<div class="dropdown-content">
+			<a href="sKaTeN'rOLL.html">Home</a>
+			<a href="Contact.html">Contact</a>
+			<a href="About.html">About</a>
+		</div>
+</div>
+<div class="box1">
+			<br>
+			<br>
+			<h1 align="center" style="color:white">Products</h1>
+			<br>
+			<br>
+</div>
+<div class="box1">	
+<div id="imagesMain">
+			<br>
+			<br>
+			<p style="font-size:30px; color:white">Deck</p>
+			<br>
+			<div class="imagebox">		 
+             </div>
+             <div class="imagebox">
+				<div class="caption">Badguy PHP 1,500.00</div> 
+                <img src="DeckBadguyDesign.png">             
+             </div>
+             <div class="imagebox">
+				<div class="caption">Heat PHP 1,500.00</div> 
+                <img src="DeckHeatDesign.png">          
+             </div>
+             <div class="imagebox">
+				<div class="caption">Winter PHP 1,500.00</div>	
+                <img src="DeckWinterDesign.png">
+             </div>
+			 <h1 style="color:white">....................................................................................................................................</h1>
+			 <h1 style="color:white">....................................................................................................................................</h1>
+			 <br>
+			 <br>
+			 <p style="font-size:30px; color:white">Wheels</p>
+			 <br>
+			 <div class="imagebox2">		 
+             </div>
+			  <div class="imagebox">
+				<div class="caption">Badguy PHP 655.00</div>
+                <img src="Badguy Wheel.png">        			 
+             </div>
+			 <div class="imagebox">
+				<div class="caption">Heat PHP 655.00</div>	
+                <img src="Heat Wheel.png">              		 
+             </div>
+			 <div class="imagebox">
+				<div class="caption">Winter PHP 655.00</div>
+                <img src="Winter Wheel.png">              			 
+             </div>
+			 <div class="imagebox">
+				<div class="caption">Plain PHP 600.00</div>	
+                <img src="Plain Wheel.png">          		 
+             </div>
+			 <h1 style="color:white">....................................................................................................................................</h1>
+			 <h1 style="color:white">....................................................................................................................................</h1>
+			 <br>
+			 <br>
+			 <p style="font-size:30px; color:white">Trucks</p>
+			 <br>
+			 <div class="imagebox">		 
+             </div>
+			 <div class="imagebox">
+				<div class="caption">Black PHP 987.00</div>
+                <img src="BlackTrucks.png">           			 
+             </div>
+			 <div class="imagebox">		 
+             </div>
+			 <div class="imagebox">
+				<div class="caption">Plain PHP 987.00</div>	
+                <img src="PlainTrucks.png">  		 
+             </div>
+			 <h1 style="color:white">....................................................................................................................................</h1>
+			 <h1 style="color:white">....................................................................................................................................</h1>
+			 <br>
+			 <br>
+			 <p style="font-size:30px; color:white">Rollerblades Adult</p>
+			 <br>
+			 <div class="imagebox2">		 
+             </div>
+			 <div class="imagebox">
+				<div class="caption">Black PHP 4,800.00</div>	
+                <img src="RollerSkate Black Adult.png">		 
+             </div>
+			 <div class="imagebox">
+				<div class="caption">Blue PHP 4,800.00</div>
+                <img src="RollerSkate Blue Adult.png"> 			 
+             </div>
+			 <div class="imagebox">
+				<div class="caption">Pink PHP 4,800.00</div>
+                <img src="RollerSkate Pink Adult.png"> 			 
+             </div>
+			 <div class="imagebox">
+				<div class="caption">White PHP 4,800.00</div>	
+                <img src="RollerSkate White Adult.png">	 
+             </div>
+			 <h1 style="color:white">....................................................................................................................................</h1>
+			 <h1 style="color:white">....................................................................................................................................</h1>
+			 <br>
+			 <br>
+			 <p style="font-size:30px; color:white">Rollerblades Kids</p>
+			 <br>
+			 <div class="imagebox">		 
+             </div>
+			 <div class="imagebox">
+				<div class="caption">White PHP 3,765.00</div>		
+                <img src="RollerSkate White Kids.png">
+             </div>
+			 <div class="imagebox">		 
+             </div>
+			 <div class="imagebox">
+				<div class="caption">Black PHP 3,765.00</div>	
+                <img src="RollerSkate Black Kids.png">
+             </div>
+			  <h1 style="color:white">....................................................................................................................................</h1>
+			 <h1 style="color:white">....................................................................................................................................</h1>
+			 <br>
+			 <br>
+			 <p style="font-size:30px; color:white">Protective Gears</p>
+			<br>
+			<div class="imagebox">		 
+             </div>
+             <div class="imagebox">
+				<div class="caption">Elbow Pads PHP 350.00</div> 
+                <img src="DeckBadguyDesign.png">             
+             </div>
+             <div class="imagebox">
+				<div class="caption">Knee Pads PHP 480.00</div> 
+                <img src="DeckHeatDesign.png">          
+             </div>
+             <div class="imagebox">
+				<div class="caption">Helmet PHP 600.00</div>	
+                <img src="DeckWinterDesign.png">
+             </div>
+			 <h1 style="color:white">....................................................................................................................................</h1>
+			 <h1 style="color:white">....................................................................................................................................</h1>
+			 <br>
+			 <br>
+        </div>
+</div>
+</body>
+</html>
